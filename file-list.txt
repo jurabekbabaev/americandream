@@ -1,14 +1,9 @@
 css/base.css
 css/main.css
-css/owl.video.play.png.html
 css/slider.css
 css/vendor.css
 favicon.ico
-images/back.jpg.html
-images/background.jpg.html
-images/email-icon.png.html
 images/email.webp
-images/logo12.png.html
 images/logo12.webp
 images/phone-call.webp
 images/placeholder.webp
